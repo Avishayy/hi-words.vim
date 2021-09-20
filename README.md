@@ -15,7 +15,7 @@ I found it somewhere around the web a while ago, copied it to my vim configurati
 `<leader>0`
 
 # Installation
-Use your preferred installation method, I use plugged:
+Use your preferred installation method, I use Plugged:  
 `Plug 'avishayy/hi-words.vim'`
 
 # Configuration
