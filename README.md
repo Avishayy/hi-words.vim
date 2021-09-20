@@ -3,11 +3,12 @@ This is a very simple plugin to allow you to highlight different words in vim.
 
 I found it somewhere around the web a while ago, copied it to my vim configuration file and changed it a bit. Eventually I decided to upload it as a plugin.
 
-![image](https://user-images.githubusercontent.com/5567310/134042210-b5b0985a-872a-49e6-bcc9-193d5cef2a14.png)
+# Exmaple
+![image](https://user-images.githubusercontent.com/5567310/134043021-1819e623-927e-4dc1-8656-d2c163c4502f.png)
 
 # Mappings
-First highlight toggle - `<leader>1`
-... (up to)
+First highlight toggle - `<leader>1`  
+... (up to)  
 Seventh highlight toggle - `<leader>7`
 
 # Installation
