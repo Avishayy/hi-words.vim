@@ -15,8 +15,10 @@ I found it somewhere around the web a while ago, copied it to my vim configurati
 `<leader>0`
 
 # Installation
-Use your preferred installation method, I use Plugged:  
-`Plug 'avishayy/hi-words.vim'`
+Use your preferred installation method, I use Plugged:
+```
+Plug 'avishayy/hi-words.vim'
+```
 
 # Configuration
 This is a reaaaally simple plugin, no configuration is supported by default, you can however do this:
