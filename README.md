@@ -7,9 +7,12 @@ I found it somewhere around the web a while ago, copied it to my vim configurati
 ![image](https://user-images.githubusercontent.com/5567310/134043021-1819e623-927e-4dc1-8656-d2c163c4502f.png)
 
 # Mappings
-First highlight toggle - `<leader>1`  
-... (up to)  
-Seventh highlight toggle - `<leader>7`
+
+#### Toggle Highlights
+`<leader>1` up to `<leader>7`
+
+#### Reset Highlights
+`<leader>0`
 
 # Installation
 Use your preferred installation method, I use plugged:
