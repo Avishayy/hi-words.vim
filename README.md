@@ -1,3 +1,6 @@
+# DEPRECATED
+You should not use  this plugin, I've found [HighStr](https://github.com/Pocco81/HighStr.nvim), which is a much better alternative, use it :)
+
 # hi-words.vim
 This is a very simple plugin to allow you to highlight different words in vim.
 
@@ -30,3 +33,4 @@ nmap <silent> <leader>8 :call HiInterestingWord(8)<cr>
 ```
 
 Note that the highlight definition must be a number prepended by `HiInterestingWord` and that number needs to be passed to `HiInterestingWord()`
+)
